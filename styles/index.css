@@ -45,6 +45,9 @@ header{
 .header-wrapper a{
     color: var(--gray);
 }
+.header-wrapper a:hover{
+    color: var(--black);
+}
 .header-left > a{
     display:flex;
     align-items: center;
